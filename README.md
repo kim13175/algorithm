@@ -11,7 +11,7 @@ algorithm repository commit convention
 |function|number|message| 설명 |
 |---------|------|------| ------ |
 |solveJs|#문제번호|문제제목| java 알고리즘 문제 풀이 |
-|sovlePy|#문제번호|문제제목| python 알고리즘 문제 풀이 |
+|solvePy|#문제번호|문제제목| python 알고리즘 문제 풀이 |
 
 ---
 
