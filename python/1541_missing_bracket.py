@@ -24,8 +24,6 @@ for i in range(1, len(numList)):
     result -= numList[i];
 
 print_(str(result));
-    
-
 
 '''
 - 가장 처음과 마지막 문자는 숫자
