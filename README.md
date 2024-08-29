@@ -12,6 +12,7 @@ algorithm repository commit convention
 |---------|------|------| ------ |
 |solveJs|#문제번호|문제제목| java 알고리즘 문제 풀이 |
 |solvePy|#문제번호|문제제목| python 알고리즘 문제 풀이 |
-
+|updateSolvePy|#문제번호|문제제목| python 알고리즘 문제 풀이 수정 |
+|updateSolveJs|#문제번호|문제제목| js 알고리즘 문제 풀이 수정 |
 ---
 
