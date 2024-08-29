@@ -3,8 +3,8 @@ import sys
 user_input = sys.stdin.readline;
 user_print = sys.stdout.write;
 
-n = int(input());
-continueSum = list(map(int, input().split()));
+n = int(user_input());
+continueSum = list(map(int, user_input().split()));
 table = [continueSum[0]] + [0] * (n - 1); 
 
 for i in range(1, n):
