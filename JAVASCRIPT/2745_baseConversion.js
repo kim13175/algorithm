@@ -17,3 +17,15 @@ for (let i = 0; i < newList.length; i++) {
     sum += newList[i] * (parseInt(base[1]) ** (newList.length-i-1));
 }
 console.log(sum);
+
+/*
+* const fs = require('fs');
+
+let [num, base] = (process.platform === 'linux'? fs.readFileSync('/dev/stdin').toString() :
+        "ZZZZZ 36"
+).trim().split(' ');
+
+// parseInt의 두 번째 인자로 진법을 직접 지정
+console.log(parseInt(num, +base));
+
+* * */
